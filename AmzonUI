@@ -1,4 +1,6 @@
 AmzonUI
 public class Camera{
-
+  public void TestingTab(){
+  
+  }
 }
